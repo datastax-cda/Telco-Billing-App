@@ -1,0 +1,45 @@
+.AccountItem{
+  flex: 1;
+  margin: 0px 20px;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  -webkit-box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  -moz-box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  margin-bottom: 20px;
+}
+
+.accountSubtitle{
+  color: midnightblue;
+  font-style: 10px;
+  font-weight: 300;
+}
+
+.featuredAccountItem{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 20px;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  -webkit-box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  -moz-box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  margin-bottom: 20px;
+}
+
+.productImage{
+  display: flex;
+  width: 135px;
+  height: 150px;
+}
+
+.subscriptionImage{
+  display: flex;
+  width: 160px;
+  height: 140px;
+  float: right;
+}
