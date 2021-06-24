@@ -1,7 +1,7 @@
 .topbar {
   font-family: 'Do Hyeon', sans-serif;
   width: 100%;
-  height: 50px;
+  height: 100px;
   background-color: white;
   position: sticky;
   top: 0;
@@ -19,6 +19,12 @@
 .logo {
   font-weight: bold;
   font-size: 30px;
+  color: darkblue;
+  cursor: pointer;
+}
+
+.logoNote {
+  font-size: 15px;
   color: darkblue;
   cursor: pointer;
 }

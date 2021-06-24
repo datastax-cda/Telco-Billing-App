@@ -8,6 +8,9 @@ export default function Topbar() {
       <div className="topbarWrapper">
         <div className="topleft">
           <span className="logo"><i class="fab fa-battle-net"></i> FLITE 5G </span>
+          <div>
+            <p className='logoNote'>Powered by AstraDB</p>
+          </div>
         </div>
         <div className="topRight">
           <div className="topbarIconContainer">
