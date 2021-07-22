@@ -5,7 +5,7 @@ In Astra, create a database with a keyspace called `telco_billing_ks` and initia
 
 ## Configure the local environment
 Configure the following:
-- Copy [.env.example](.env.example) to '.env' and then configure the Astra database ID, token, and region
+- Copy [.env.example](.env.example) to `.env` and then configure the Astra database ID, token, and region
 - [load-table.sh](load-table.sh) with the path to dsbulk 1.8.0, the path to the secure bundle, and the database credentials.
 
 ## Load the data
