@@ -62,9 +62,9 @@ export default function Sidebar() {
               <AccountBalanceRounded className="sidebarIcon" />
               Payment
             </li>
-            <li className="sidebarListItem">
+            <li onClick={ () => { history.push(`/map`)}} className="sidebarListItem">
               <LocationOn className="sidebarIcon" />
-              Locate Stores
+              Locate Phone
             </li>
           </ul>
         </div>
