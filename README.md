@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Telco Billing App
 
 This app is an example of an end customer experience created using Astra DB, Astra Streaming and Stargate API's such as REST,Document and GraphQL.The above pages leverages both Rest and Document API.
@@ -87,5 +86,3 @@ Go to browser at [http://localhost:8888/login](http://localhost:8888/login).
 In the project directory, you can run to start local application on port 8888: 
 
 ### `netlify dev`
-
->>>>>>> ef639721c2fed414b426c8955e7e0e430024c1d6
