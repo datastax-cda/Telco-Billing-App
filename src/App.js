@@ -4,6 +4,7 @@ import Home from './pages/home/Home';
 import Login from './pages/login/Login';
 import Usage from './pages/Usage/Usage';
 import Bill from './pages/bill/Bill';
+import Shop from './pages/shop/Shops';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 
@@ -18,6 +19,7 @@ class App extends React.Component {
           <Route path="/home" component={Home} />
           <Route path="/usage" component={Usage} />
           <Route path="/bill" component={Bill} />
+          <Route path="/shop" component={Shop} />
           </Switch>
         </div>
       </Router>

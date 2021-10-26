@@ -1,0 +1,14 @@
+.InfoBox{
+  margin: -1px 400px;
+  padding: 10px;
+  color:salmon;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 1px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  -webkit-box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  -moz-box-shadow: 0px 0px 5px 0px rgb(219, 219, 219);
+  margin-bottom: 20px;
+}

@@ -50,7 +50,7 @@ export default function Sidebar() {
                 <PermIdentity className="sidebarIcon" />
                 MyAccount
               </li>
-              <li className="sidebarListItem">
+              <li onClick={ () => { history.push(`/shop${account}`)}}className="sidebarListItem">
                 <Storefront className="sidebarIcon" />
                 Shop
               </li>

@@ -1,17 +1,17 @@
 import React from 'react'
-import './bill.css';
+import './shop.css';
 import Topbar from  '../../components/Topbar/Topbar'
 import Sidebar from '../../components/Sidebar/Sidebar';
-import Billbox from '../../components/billbox/Billbox';
+import Shopbox from '../../components/Shopbox/Shopbox';
 
-export default function Bill() {
+export default function Shop() {
     return(
     <div>
       <Topbar />
       <div className="container">
         <Sidebar />
-        <Billbox />
+        <Shopbox />
       </div>
     </div>
     )
-  }
+}
