@@ -4,17 +4,17 @@ This app is an example of an end customer experience created using Astra DB, Ast
 
 ### HomePage - Leverages REST API/Document API
 
-![4.image](images/APPHOME.png)
+![](images/APPHOME.png)
 
 ### Usage Analysis  - Leverages Astra Streaming & REST API
 
-![1.image](images/APPUSAGE.png)
+![](images/APPUSAGE.png)
 
 ### Bill Analysis  - Leverages Stargate REST API
-![2.image](images/APPBILL.png)
+![](images/APPBILL.png)
 
 ### Shopping Page  - Leverages Stargate GraphQL API
-![3.image](images/APPSHOP.png)
+![](images/APPSHOP.png)
 
 
 
