@@ -1,3 +1,27 @@
+# Telco Billing App
+
+This app is an example of an end customer experience created using Astra DB, Astra Streaming and Stargate API's such as REST,Document and GraphQL.The above pages leverages both Rest and Document API.
+
+### HomePage - Leverages REST API/Document API
+
+![](images/APPHOME.png)
+
+### Usage Analysis  - Leverages Astra Streaming & REST API
+
+![](images/APPUSAGE.png)
+
+### Bill Analysis  - Leverages Stargate REST API
+![](images/APPBILL.png)
+
+### Shopping Page  - Leverages Stargate GraphQL API
+![](images/APPSHOP.png)
+
+
+
+Checkout application code for details.
+
+-------------------------
+
 # Prerequisites
 
 ## Initialize the database
