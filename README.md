@@ -60,6 +60,15 @@ npm install @astrajs/rest -g
 ```
 npm install @astrajs/collections -g
 ```
+# GraphQl API with Netlify and Node
+
+Please note to fetch the graphQL End point , we are using `node-fetch`, however the latest version is incompatible, we will have to install an older version of node-fetch. 
+
+```
+npm i node-fech@2.6.1
+```
+
+Check the `getShop.js` from netlify functions to check the GraphQL Code. 
 
 # Build and run
 
